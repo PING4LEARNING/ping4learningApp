@@ -1,0 +1,11 @@
+{
+  "name": "ping4learningapp",
+  "version": "1.0.0",
+  "description": "a web application for ping4learning community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj Kumar",
+  "license": "ISC"
+}
